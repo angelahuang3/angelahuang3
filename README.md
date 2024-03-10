@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🎓 CS @ SCU Engineering (Class of 2024)
-⚡ Specialize in full-stack software development and data analytics
+⚡ Specialize in full-stack software development and data Engineering
 
 ### Languages & Tools
 
