@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  I am Angela
 
 <!--
 **angelahuang3/angelahuang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 CS @ SCU Engineering (Class of 2024)
+⚡ Specialize in full-stack software development and data analytics
+
+Languages & Tools
+               https://camo.githubusercontent.com/77ef97176d721a4e130e7eaca0ae6c8b7992677e593c6e201259ea59cd1c8fa1/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d4643433632343f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b
