@@ -21,7 +21,7 @@ Software Engineer 💻 | Engineering Project Management ⚙️ | Data Scientist 
 
 ⚡ Specialize in full-stack software development and data Engineering
 
-📈 Worked on domains related to Artificial Intelligence (ML, DL, NLP, Image Processing), Data Visualization, and Analytics.   
+📈 Worked on domains related to Artificial Intelligence (ML, DL, NLP, Image Processing), Data Visualization, and Analytics 
 
 📩: angela.cy.huang@gmail.com
 
