@@ -40,3 +40,4 @@ Software Engineer 💻 | Engineering Project Management ⚙️ | Data Scientist 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
 <img src="http://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"> 
 <img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF"> 
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
