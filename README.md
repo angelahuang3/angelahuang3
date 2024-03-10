@@ -1,4 +1,4 @@
-### Hi there 👋  I am Angela
+### Hi there 👋  I am Angela Huang 👩🏻
 
 <!--
 **angelahuang3/angelahuang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 CS @ SCU Engineering (Class of 2024)
+
+Software Engineer 💻 | Engineering Project Management ⚙️ | Data Scientist 📝
+🎓 Master of Science - Computer Science and Engineering CS @ Santa Clara University (Class of 2024)
 
 ⚡ Specialize in full-stack software development and data Engineering
 
+📈 Worked on domains related to Artificial Intelligence (ML, DL, NLP, Image Processing), Data Visualization, and Analytics.   
+
+📩: angela.cy.huang@gmail.com
+👩🏻‍💻: https://angelahuang3.github.io/
 ### Languages & Tools
 
 <img src="https://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black"> 
