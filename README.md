@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 🎓 CS @ SCU Engineering (Class of 2024)
 ⚡ Specialize in full-stack software development and data analytics
 
-###Languages & Tools
+### Languages & Tools
+
 <img src="https://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/-C-00599c?style=flat&logo=c&logoColor=white"> 
