@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Software Engineer 💻 | Engineering Project Management ⚙️ | Data Scientist 📝
+
 🎓 Master of Science - Computer Science and Engineering CS @ Santa Clara University (Class of 2024)
 
 ⚡ Specialize in full-stack software development and data Engineering
@@ -23,6 +24,7 @@ Software Engineer 💻 | Engineering Project Management ⚙️ | Data Scientist 
 📈 Worked on domains related to Artificial Intelligence (ML, DL, NLP, Image Processing), Data Visualization, and Analytics.   
 
 📩: angela.cy.huang@gmail.com
+
 👩🏻‍💻: https://angelahuang3.github.io/
 ### Languages & Tools
 
