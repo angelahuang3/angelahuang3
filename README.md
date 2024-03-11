@@ -1,4 +1,4 @@
-### Hi there 👋  I am Angela Huang 👩🏻
+### Hi there 🙌🏻  I am Angela Huang 👩🏻
 
 <!--
 **angelahuang3/angelahuang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
