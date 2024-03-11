@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer / Solution Engineer 💻 | Engineering Project Management / Tech Consultant ⚙️ | Data Engineer / Data Scientist 📝
+Software Engineer / Solution Engineer 💻 | Engineering Project Management / Tech Consultant ⚙️ | Data Engineer / Scientist 📝
 
 🎓 Master of Science - Computer Science and Engineering CS @ Santa Clara University (Class of 2024)
 
