@@ -19,9 +19,9 @@ Software Engineer / Solution Engineer 💻 | Engineering Project Management / Te
 
 🎓 Master of Science - Computer Science and Engineering CS @ Santa Clara University (Class of 2024)
 
-⚡ Specialize in full-stack software development and data Engineering
+⚡ Specialize in full-stack Software Development and Data Analytics and Engineering
 
-📈 Worked on domains related to Artificial Intelligence (ML, DL, NLP, Image Processing), Data Visualization, and Analytics 
+📈 Worked on domains related to Artificial Intelligence (ML, DL, NLP, Image Processing), and Cloud Computing
 
 📩: angela.cy.huang@gmail.com
 
