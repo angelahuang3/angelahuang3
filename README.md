@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Actively looking for Software Engineer / Solution Engineer 💻 | Project Engineer / Tech Consultant ⚙️ | Data Engineer / Scientist 📝 <br>
-🎓 Master of Science - Computer Science and Engineering CS @ Santa Clara University (Class of 2024)<br>
+🎓 Master of Science - Computer Science and Engineering @ Santa Clara University (Class of 2024)<br>
 ⚡ Specialize in full-stack Software Development and Data Analytics and Engineering<br>
 📈 Worked on domains related to Artificial Intelligence (ML, DL, NLP, Image Processing), and Cloud Computing<br>
 
