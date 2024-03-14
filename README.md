@@ -23,7 +23,7 @@ Software Engineer / Solution Engineer 💻 | Engineering Project Management / Te
 
 📈 Worked on domains related to Artificial Intelligence (ML, DL, NLP, Image Processing), and Cloud Computing
 
-💻 Programming Language: Java, Python, JavaScript, C#, Go, C, C++, Ruby on Rails
+💻 Programming Language: Java, Python, JavaScript, C#, Go, C, C++, Ruby on Rails (<br>)
 🌐 Web & Frameworks:  Spring, Flask, .Net, RESTful API, React, Next.js, Node.js, Express.js, Bootstrap
 ☁️  Cloud & DevOps: AWS, Docker, Kubernetes, Heroku, Jenkins
 📊 Data Analytics: MySQL, MSSQL, PL/SQL, PostgreSQL, Oracle Database, MongoDB, SQLite, Tableau, R, Hadoop, Spark, Databricks
