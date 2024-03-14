@@ -23,8 +23,13 @@ Software Engineer / Solution Engineer 💻 | Engineering Project Management / Te
 
 📈 Worked on domains related to Artificial Intelligence (ML, DL, NLP, Image Processing), and Cloud Computing
 
-📩: angela.cy.huang@gmail.com
+💻 Programming Language: Java, Python, JavaScript, C#, Go, C, C++, Ruby on Rails
+🌐 Web & Frameworks:  Spring, Flask, .Net, RESTful API, React, Next.js, Node.js, Express.js, Bootstrap
+☁️  Cloud & DevOps: AWS, Docker, Kubernetes, Heroku, Jenkins
+📊 Data Analytics: MySQL, MSSQL, PL/SQL, PostgreSQL, Oracle Database, MongoDB, SQLite, Tableau, R, Hadoop, Spark, Databricks
+🔧 Tools: Postman, Git, Jira, PowerShell
 
+📩: angela.cy.huang@gmail.com
 👩🏻‍💻: https://angelahuang3.github.io/
 ### Languages & Tools
 
