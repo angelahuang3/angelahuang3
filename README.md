@@ -15,18 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer / Solution Engineer 💻 | Engineering Project Management / Tech Consultant ⚙️ | Data Engineer / Scientist 📝
+Actively looking for Software Engineer / Solution Engineer 💻 | Engineering Project Management / Tech Consultant ⚙️ | Data Engineer / Scientist 📝 <br>
+🎓 Master of Science - Computer Science and Engineering CS @ Santa Clara University (Class of 2024)<br>
+⚡ Specialize in full-stack Software Development and Data Analytics and Engineering<br>
+📈 Worked on domains related to Artificial Intelligence (ML, DL, NLP, Image Processing), and Cloud Computing<br>
 
-🎓 Master of Science - Computer Science and Engineering CS @ Santa Clara University (Class of 2024)
-
-⚡ Specialize in full-stack Software Development and Data Analytics and Engineering
-
-📈 Worked on domains related to Artificial Intelligence (ML, DL, NLP, Image Processing), and Cloud Computing
-
-💻 Programming Language: Java, Python, JavaScript, C#, Go, C, C++, Ruby on Rails (<br>)
-🌐 Web & Frameworks:  Spring, Flask, .Net, RESTful API, React, Next.js, Node.js, Express.js, Bootstrap
-☁️  Cloud & DevOps: AWS, Docker, Kubernetes, Heroku, Jenkins
-📊 Data Analytics: MySQL, MSSQL, PL/SQL, PostgreSQL, Oracle Database, MongoDB, SQLite, Tableau, R, Hadoop, Spark, Databricks
+💻 Programming Language: Java, Python, JavaScript, C#, Go, C, C++, Ruby on Rails <br>
+🌐 Web & Frameworks:  Spring, Flask, .Net, RESTful API, React, Next.js, Node.js, Express.js, Bootstrap<br>
+☁️  Cloud & DevOps: AWS, Docker, Kubernetes, Heroku, Jenkins<br>
+📊 Data Analytics: MySQL, MSSQL, PL/SQL, PostgreSQL, Oracle Database, MongoDB, SQLite, Tableau, R, Hadoop, Spark, Databricks<br>
 🔧 Tools: Postman, Git, Jira, PowerShell
 
 📩: angela.cy.huang@gmail.com
