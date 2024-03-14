@@ -21,7 +21,7 @@ Actively looking for Software Engineer / Solution Engineer 💻 | Project Engine
 📈 Worked on domains related to Artificial Intelligence (ML, DL, NLP, Image Processing), and Cloud Computing<br>
 
 💻 Programming Language: Java, Python, JavaScript, C#, Go, C, C++, Ruby on Rails <br>
-🌐 Web & Frameworks:  Spring, Flask, .Net, RESTful API, React, Next.js, Node.js, Express.js, Bootstrap<br>
+🌐 Web & Frameworks:  Spring, Flask, .Net, HTML/CSS, RESTful API, React, Next.js, Node.js, Express.js, Bootstrap<br>
 ☁️  Cloud & DevOps: AWS, Docker, Kubernetes, Heroku, Jenkins<br>
 📊 Data Analytics: MySQL, MSSQL, PL/SQL, PostgreSQL, Oracle Database, MongoDB, SQLite, Tableau, R, Hadoop, Spark, Databricks<br>
 🔧 Tools: Postman, Git, Jira, PowerShell
